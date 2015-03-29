@@ -5,6 +5,6 @@ public class Main {
 		VideoBrowser test = new VideoBrowser();
         
         System.out.println("my change");
-        
+        System.out.println("Local merge change");
     }
 }
